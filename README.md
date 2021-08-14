@@ -1,2 +1,5 @@
 # Breath-Analysis
-Analysing breathing sounds using ML (CNN)
+Analysing breathing sounds using Machine Learning (CNN)
+
+
+
